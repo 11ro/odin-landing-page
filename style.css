@@ -2,3 +2,9 @@ body {
     background-color: #1f2937;
     font-family:'Roboto', Courier, monospace;
 }
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bolder;
+}
