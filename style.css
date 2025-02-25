@@ -47,3 +47,11 @@ img {
     align-items: center;
     padding: 50px 500px 0px;
 }
+
+.left-content {
+    width: 450px;
+}
+
+.right-content {
+    padding-right: 88px;
+}
