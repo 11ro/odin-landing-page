@@ -35,3 +35,12 @@ ul {
     font-size: 48px;
     font-weight: 900;
 }
+
+img {
+    height: 250px;
+    width: 250px;
+}
+
+.hero-main {
+    display: flex;
+}
