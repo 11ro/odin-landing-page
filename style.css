@@ -50,8 +50,22 @@ img {
 .left-content {
     width: 450px;
     padding-left: 112px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 .right-content {
     padding-right: 200px;
+}
+
+button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+    box-sizing: border-box;
+    width: 120px;
+    padding: 5px;
+    font-weight: bolder;
+    font-size: 16px;
 }
