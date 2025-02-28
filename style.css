@@ -45,7 +45,8 @@ img {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 50px;
+    padding-top: 100px;
+    margin-bottom: 100px;
 }
 
 .left-content {
