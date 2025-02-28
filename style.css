@@ -74,12 +74,27 @@ button {
 
 .random-info {
     background-color: white;
+    padding: 50px;
 }
 
 .random-info-header {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
-    padding: 50px;
     text-align: center;
+}
+
+.random-info-boxes {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box-1-img,
+.box-2-img,
+.box-3-img,
+.box-4-img {
+    border-color: black;
+    border-style: dotted;
+    height: 50px;
+    width: 50px;
 }
