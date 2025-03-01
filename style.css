@@ -89,10 +89,7 @@ button {
     justify-content: space-evenly;
 }
 
-.box-1-img,
-.box-2-img,
-.box-3-img,
-.box-4-img {
+#box-img {
     border-color: black;
     border-style: dotted;
     height: 50px;
