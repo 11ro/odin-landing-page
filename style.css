@@ -74,7 +74,7 @@ button {
 
 .random-info {
     background-color: white;
-    padding: 50px;
+    padding: 100px;
 }
 
 .random-info-header {
@@ -94,8 +94,8 @@ button {
 #box-img {
     border-color: black;
     border-style: dotted;
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
 
 .box-1,
