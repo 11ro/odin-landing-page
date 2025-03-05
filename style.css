@@ -86,7 +86,8 @@ button {
 
 .random-info-boxes {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    gap: 30px;
 }
 
 #box-img {
