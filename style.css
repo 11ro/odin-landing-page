@@ -144,6 +144,7 @@ button {
 .call-container {
     display: flex;
     background-color: #3882f6;
-    padding: 30px 60px;
-    width: 1000px;
+    padding: 30px 80px;
+    width: 800px;
+    justify-content: space-between;
 }
