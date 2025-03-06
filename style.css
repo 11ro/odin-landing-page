@@ -150,10 +150,16 @@ button {
     border-radius: 10px;
 }
 
-.call-text {
+.call-text,
+.footer {
     color:#f9faf8;
 }
 
 .call-main {
     font-weight: 1000;
+}
+
+.footer {
+    padding: 25px;
+    text-align: center;
 }
