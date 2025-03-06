@@ -106,3 +106,19 @@ button {
     flex-direction: column;
     align-items: center;
 }
+
+#quote-section {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    padding: 100px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    justify-content: center;
+    align-items: center;
+}
